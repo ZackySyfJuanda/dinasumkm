@@ -1,0 +1,31 @@
+.login{
+    height: 100vh;
+}
+
+.header h1 {
+        position: absolute;
+    width: 405.65px;
+    height: 63.64px;
+    left: 627px;
+    top: 211px;
+
+    background: #0C0D36;
+}
+
+.login-form label{
+        position: absolute;
+    width: 80.61px;
+    height: 11.3px;
+    left: 628.2px;
+    top: 325.82px;
+
+    background: #0C0D36;
+}
+
+.login-form input{
+        position: absolute;
+    width: 460.65px;
+    height: 50.56px;
+    left: 627px;
+    top: 352.68px;
+}
