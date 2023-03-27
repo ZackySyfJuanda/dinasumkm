@@ -15,13 +15,19 @@
 
 
 <body>
+  
+<!-- memisahkan bagian dari halaman -->
   <div class="container mt-5">
     <div class="row p-5 mt-5">
       <div class="col">
+
+        <!-- nampilin gambar? coba ini -->
         <img src="{{ asset('asset/img/Group.png')}}" alt="" width="100%" height="100%">
       </div>
       <div class="col">
         <h1 class="fs-3" style="text-align: justify;">Sistem Informasi Manajemen Dinas UMKM Kota Medan </h1>
+        
+        <!-- margin -->
         <div class="mb-3 mt-5">
           <label for="username" class="form-label">Username</label>
           <input type="name" class="form-control" id="username">
@@ -33,7 +39,6 @@
         <div class="d-grid gap-2 mt-5 pt-4">
           <button type="button" class="btn btn-success">Masuk</button>
       </div>
-        
       </div>
     </div>
   </div>

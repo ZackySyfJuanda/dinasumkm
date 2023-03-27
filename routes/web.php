@@ -20,3 +20,8 @@ Route::get('/', function () {
 Route::get('home', function () {
     return view('home');
 });
+
+
+Route::get('error', function () {
+    return view('auth.error');
+});
